@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Menu Profile</string>
+    <string name="submit">Submit</string>
+    <string name="register_title">Register</string>
+    <string name="name">Name</string>
+    <string name="edit_name">Masukkan Nama</string>
+    <string name="edit_email">Masukkan Email</string>
+    <string name="edit_password">Masukkan Password</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="gender_label">Gender</string>
+    <string name="male_radio">Male</string>
+    <string name="female_radio">Female</string>
+    <string name="hello">hello</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="insert_title">Insert</string>
+    <string name="title">Masukkan Judul</string>
+    <string name="body">Masukkan Berita</string>
+    <string name="date">Masukkan Tanggal</string>
+    <string name="create">Create</string>
+    <string name="insert">Insert</string>
+    <string name="title_view">Ini Judulnya</string>
+    <string name="body_view">Isi Berita</string>
+    <string name="date_view">Tanggalnya</string>
+    <string name="update">Update</string>
+    <string name="update_title">Update</string>
+    <string name="delete">Delete</string>
+</resources>
